@@ -1,0 +1,170 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot DBList 1`] = `
+<DocumentFragment>
+  <div
+    class="css-8atqhb"
+  >
+    <div
+      class="css-ldo4d5"
+    >
+      <span
+        class="css-1b0m27m"
+      >
+        Search for songs, albums or artists
+      </span>
+    </div>
+    <div
+      class="css-1l4w6pd"
+    >
+      <div
+        class="searchBar css-ldo4d5"
+      >
+        <div
+          class="chakra-form-control css-1z0y902"
+          role="group"
+        >
+          <label
+            class="chakra-form__label css-1v3sb5r"
+            for="searchInput"
+            id="field-3394560505-4-label"
+          >
+            Search
+          </label>
+          <input
+            class="chakra-input searchBar css-0"
+            data-cy="searchBar"
+            id="field-3394560505-4"
+            name="searchInput"
+            placeholder="Search..."
+            type="text"
+          />
+          <button
+            class="chakra-button submitbtn css-1y2wz87"
+            data-cy="searchButton"
+            type="submit"
+          >
+            SEARCH
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sortingNav css-y6q02b"
+    >
+      <div
+        class="css-7822g1"
+      >
+        <button
+          class="chakra-button css-ja44gt"
+          data-cy="sortbyTitle"
+          style="background-color: floralwhite; border: 0.2px solid darkred; border-radius: 0; margin-right: 2px; margin-bottom: 2px;"
+          type="button"
+        >
+          Sort by title (ASC)
+        </button>
+        <button
+          class="chakra-button css-ja44gt"
+          style="background-color: floralwhite; border: 0.2px solid darkred; border-radius: 0; margin-right: 2px; margin-bottom: 2px;"
+          type="button"
+        >
+          Sort by duration (ASC)
+        </button>
+        <button
+          class="chakra-button css-ja44gt"
+          style="background-color: floralwhite; border: 0.2px solid darkred; border-radius: 0; margin-right: 2px; margin-bottom: 2px;"
+          type="button"
+        >
+          Sort by album (ASC)
+        </button>
+        <button
+          class="chakra-button css-ja44gt"
+          style="background-color: floralwhite; border: 0.2px solid darkred; border-radius: 0; margin-right: 2px; margin-bottom: 2px;"
+          type="button"
+        >
+          Sort by year released (ASC)
+        </button>
+        <button
+          class="chakra-button css-ja44gt"
+          style="background-color: floralwhite; border: 0.2px solid darkred; border-radius: 0; margin-right: 2px; margin-bottom: 2px;"
+          type="button"
+        >
+          Sort by artist (ASC)
+        </button>
+        <button
+          class="chakra-button css-ja44gt"
+          data-cy="removeSort"
+          style="background-color: floralwhite; border: 0.2px solid darkred; border-radius: 0; margin-right: 2px; margin-bottom: 2px;"
+          type="button"
+        >
+          Remove sort
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="css-ldo4d5"
+  >
+    <ul
+      class="css-1875gv5"
+      role="list"
+    >
+      <li
+        class="listItems css-1lt61k4"
+        data-cy="listItem"
+        style="background-color: darkred;"
+      >
+         
+        <p
+          class="chakra-text listText css-j5b9iu"
+          id="songCount"
+          style="color: white; font-size: 17px;"
+        >
+          1
+        </p>
+        <p
+          class="chakra-text listText css-2j9m6m"
+          id="songTitle"
+          style="color: white; font-size: 17px;"
+        >
+          Sang
+        </p>
+        <p
+          class="chakra-text listText css-2j9m6m"
+          id="songArtist"
+          style="color: white; font-size: 17px;"
+        >
+          artist
+        </p>
+        <button
+          class="chakra-button css-hek6jo"
+          data-cy="songView"
+          type="button"
+        >
+          VIEW SONG
+        </button>
+      </li>
+    </ul>
+  </div>
+  <div
+    class="css-3rg340"
+  >
+    <button
+      class="chakra-button css-gocx0i"
+      data-cy="showMore"
+      style="background-color: floralwhite; border: 0.2px solid dimgray;"
+      type="button"
+    >
+      Show more
+    </button>
+    <button
+      class="chakra-button css-5c2176"
+      data-cy="showLess"
+      style="background-color: floralwhite; border: 0.2px solid dimgray;"
+      type="button"
+    >
+      Show less
+    </button>
+  </div>
+</DocumentFragment>
+`;

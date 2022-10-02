@@ -1,0 +1,256 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot addSong 1`] = `
+<div
+  className="css-1is5g6e"
+>
+  <div
+    className="css-emzx1y"
+  >
+    <div
+      className="chakra-form-control css-uewl2b"
+      role="group"
+    >
+      <label
+        className="chakra-form__label css-uvho5g"
+        htmlFor="songtitleInput"
+        id="field-4015174717-1-label"
+        style={
+          Object {
+            "fontSize": "120%",
+          }
+        }
+      >
+        Song title:
+        <span
+          aria-hidden={true}
+          className="chakra-form__required-indicator css-0"
+          role="presentation"
+        >
+          *
+        </span>
+      </label>
+      <input
+        aria-required={true}
+        className="chakra-input addSongInput css-0"
+        data-cy="title"
+        disabled={false}
+        id="field-4015174717-1"
+        name="songtitle"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="Title"
+        readOnly={false}
+        required={true}
+        type="text"
+      />
+    </div>
+    <div
+      className="chakra-form-control css-uewl2b"
+      role="group"
+    >
+      <label
+        className="chakra-form__label css-uvho5g"
+        htmlFor="durationInput"
+        id="field-4015174717-2-label"
+        style={
+          Object {
+            "fontSize": "120%",
+          }
+        }
+      >
+        Duration:
+        <span
+          aria-hidden={true}
+          className="chakra-form__required-indicator css-0"
+          role="presentation"
+        >
+          *
+        </span>
+      </label>
+      <input
+        aria-required={true}
+        className="chakra-input addSongInput css-0"
+        data-cy="duration"
+        disabled={false}
+        id="field-4015174717-2"
+        name="durationInput"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="2.45"
+        readOnly={false}
+        required={true}
+        type="number"
+      />
+      <div
+        className="chakra-form__helper-text css-1q3xmzu"
+        id="field-4015174717-2-helptext"
+      >
+        Song length in minutes comma seconds
+      </div>
+    </div>
+    <div
+      className="chakra-form-control css-uewl2b"
+      role="group"
+    >
+      <label
+        className="chakra-form__label css-uvho5g"
+        htmlFor="albumInput"
+        id="field-4015174717-3-label"
+        style={
+          Object {
+            "fontSize": "120%",
+          }
+        }
+      >
+        Album:
+        <span
+          aria-hidden={true}
+          className="chakra-form__required-indicator css-0"
+          role="presentation"
+        >
+          *
+        </span>
+      </label>
+      <input
+        aria-required={true}
+        className="chakra-input addSongInput css-0"
+        data-cy="album"
+        disabled={false}
+        id="field-4015174717-3"
+        name="albumInput"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="Album"
+        readOnly={false}
+        required={true}
+        type="text"
+      />
+    </div>
+    <div
+      className="chakra-form-control css-uewl2b"
+      role="group"
+    >
+      <label
+        className="chakra-form__label css-uvho5g"
+        htmlFor="yearInput"
+        id="field-4015174717-4-label"
+        style={
+          Object {
+            "fontSize": "120%",
+          }
+        }
+      >
+        Year released:
+        <span
+          aria-hidden={true}
+          className="chakra-form__required-indicator css-0"
+          role="presentation"
+        >
+          *
+        </span>
+      </label>
+      <input
+        aria-required={true}
+        className="chakra-input addSongInput css-0"
+        data-cy="year"
+        disabled={false}
+        id="field-4015174717-4"
+        name="yearInput"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="1999"
+        readOnly={false}
+        required={true}
+        type="number"
+      />
+    </div>
+    <div
+      className="chakra-form-control css-uewl2b"
+      role="group"
+    >
+      <label
+        className="chakra-form__label css-uvho5g"
+        htmlFor="artist1Input"
+        id="field-4015174717-5-label"
+        style={
+          Object {
+            "fontSize": "120%",
+          }
+        }
+      >
+        Artist 1:
+        <span
+          aria-hidden={true}
+          className="chakra-form__required-indicator css-0"
+          role="presentation"
+        >
+          *
+        </span>
+      </label>
+      <input
+        aria-required={true}
+        className="chakra-input addSongInput css-0"
+        data-cy="artist1"
+        disabled={false}
+        id="field-4015174717-5"
+        name="artist1Input"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="Name Johnson"
+        readOnly={false}
+        required={true}
+        type="String"
+      />
+    </div>
+    <div
+      className="chakra-form-control css-d2znx6"
+      role="group"
+    >
+      <label
+        className="chakra-form__label css-uvho5g"
+        htmlFor="artist2Input"
+        id="field-4015174717-6-label"
+        style={
+          Object {
+            "fontSize": "120%",
+          }
+        }
+      >
+        Artist 2:
+      </label>
+      <input
+        className="chakra-input addSongInput css-0"
+        data-cy="artist2"
+        disabled={false}
+        id="field-4015174717-6"
+        name="artist2Input"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="John Nameson"
+        readOnly={false}
+        required={false}
+        type="String"
+      />
+    </div>
+    <div
+      className="css-1l4w6pd"
+    >
+      <button
+        className="chakra-button submitbtn css-hek6jo"
+        id="AddSongButton"
+        onClick={[Function]}
+        type="submit"
+      >
+        ADD SONG
+      </button>
+    </div>
+  </div>
+</div>
+`;

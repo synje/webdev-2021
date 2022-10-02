@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot SearchBar 1`] = `
+<div
+  className="css-1l4w6pd"
+>
+  <div
+    className="searchBar css-ldo4d5"
+  >
+    <div
+      className="chakra-form-control css-1z0y902"
+      role="group"
+    >
+      <label
+        className="chakra-form__label css-1v3sb5r"
+        htmlFor="searchInput"
+        id="field-3559519501-1-label"
+      >
+        Search
+      </label>
+      <input
+        className="chakra-input searchBar css-0"
+        data-cy="searchBar"
+        disabled={false}
+        id="field-3559519501-1"
+        name="searchInput"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        readOnly={false}
+        required={false}
+        type="text"
+      />
+      <button
+        className="chakra-button submitbtn css-1y2wz87"
+        data-cy="searchButton"
+        type="submit"
+      >
+        SEARCH
+      </button>
+    </div>
+  </div>
+</div>
+`;
